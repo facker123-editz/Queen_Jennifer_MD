@@ -1,5 +1,8 @@
 # Queen_Jennifer_MD
 
+### Isn't working
+- because [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys) was removed
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/AiDarkEzio/Whats-Bot/master/GojoMedia/D_E-DPC.jpg" alt="ADE" width="350" high="350"/>
 </p>
